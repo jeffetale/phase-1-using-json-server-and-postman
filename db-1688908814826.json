@@ -1,0 +1,38 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": 2,
+      "title": "Second Article",
+      "content": "This is also an example."
+    },
+    {
+      "title": "This is how to JSON",
+      "content": "Insert everything in.",
+      "id": 3
+    },
+    {
+      "users": [
+        [
+          {
+            "name": "John Doe",
+            "email": "john.doe@example.com"
+          },
+          {
+            "name": "Jane Smith",
+            "email": "jane.smith@example.com"
+          },
+          {
+            "name": "Alice Johnson",
+            "email": "alice.johnson@example.com"
+          }
+        ]
+      ],
+      "id": 4
+    }
+  ]
+}
